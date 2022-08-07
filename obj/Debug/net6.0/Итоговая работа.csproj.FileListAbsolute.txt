@@ -1,0 +1,15 @@
+/Users/dmitriystolyarov/Desktop/Итоговая работа/bin/Debug/net6.0/Итоговая работа
+/Users/dmitriystolyarov/Desktop/Итоговая работа/bin/Debug/net6.0/Итоговая работа.deps.json
+/Users/dmitriystolyarov/Desktop/Итоговая работа/bin/Debug/net6.0/Итоговая работа.runtimeconfig.json
+/Users/dmitriystolyarov/Desktop/Итоговая работа/bin/Debug/net6.0/Итоговая работа.dll
+/Users/dmitriystolyarov/Desktop/Итоговая работа/bin/Debug/net6.0/Итоговая работа.pdb
+/Users/dmitriystolyarov/Desktop/Итоговая работа/obj/Debug/net6.0/Итоговая работа.csproj.AssemblyReference.cache
+/Users/dmitriystolyarov/Desktop/Итоговая работа/obj/Debug/net6.0/Итоговая работа.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriystolyarov/Desktop/Итоговая работа/obj/Debug/net6.0/Итоговая работа.AssemblyInfoInputs.cache
+/Users/dmitriystolyarov/Desktop/Итоговая работа/obj/Debug/net6.0/Итоговая работа.AssemblyInfo.cs
+/Users/dmitriystolyarov/Desktop/Итоговая работа/obj/Debug/net6.0/Итоговая работа.csproj.CoreCompileInputs.cache
+/Users/dmitriystolyarov/Desktop/Итоговая работа/obj/Debug/net6.0/Итоговая работа.dll
+/Users/dmitriystolyarov/Desktop/Итоговая работа/obj/Debug/net6.0/refint/Итоговая работа.dll
+/Users/dmitriystolyarov/Desktop/Итоговая работа/obj/Debug/net6.0/Итоговая работа.pdb
+/Users/dmitriystolyarov/Desktop/Итоговая работа/obj/Debug/net6.0/Итоговая работа.genruntimeconfig.cache
+/Users/dmitriystolyarov/Desktop/Итоговая работа/obj/Debug/net6.0/ref/Итоговая работа.dll
